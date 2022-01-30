@@ -1,4 +1,4 @@
-;;; wgsl-mode.el --- major mode for WGSL shader files
+;;; wgsl-mode.el --- major mode for WebGPU Shading Language
 
 ;; Copyright (C) 2022 κeen
 ;;
